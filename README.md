@@ -7,7 +7,7 @@ Part of Web Application Kit (WAPPKit) Core which powers WAPPKit, a privately own
 
 ## Installation
 
-composer require antoniokadid/wappkit-core-collections
+composer require antoniokadid/wappkit-core-io
 
 ## Requirements
 * PHP 7.1
